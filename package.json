@@ -1,0 +1,27 @@
+{
+  "name": "js3_postsgenjs",
+  "version": "1.0.0",
+  "description": "simple posts",
+  "main": "app.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint yourfile.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariusDuo/js3_PostsGenJs.git"
+  },
+  "keywords": [
+    "post",
+    "eslint",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariusDuo/js3_PostsGenJs/issues"
+  },
+  "homepage": "https://github.com/DariusDuo/js3_PostsGenJs#readme",
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
